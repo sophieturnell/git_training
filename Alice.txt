@@ -1,4 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Here is my second line of text in the Alice file :)
 Third LINE/TIME lucky
-
+Pulllling with conflicts addition
